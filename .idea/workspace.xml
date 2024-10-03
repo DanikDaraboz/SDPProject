@@ -1,41 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3acc86f4-0042-46af-aa8e-1af4d19578b2" name="Changes" comment="" />
+    <list default="true" id="29e4953b-2460-41d8-82b1-6e0165734817" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SDPProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDPProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDPProject/.idea/SDPProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDPProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDPProject/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDPProject/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDPProject/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDPProject/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDPProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDPProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDPProject/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDPProject/Class.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDPProject/Class.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDPProject/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDPProject/Magazine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDPProject/Magazine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDPProject/Main.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 4
 }</component>
-  <component name="ProjectId" id="2mndFi5vXjFxHa7fzRceYe4izIn" />
+  <component name="ProjectId" id="2mw0YPp7voTkfAe21YB5D2hGTQZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.CelsiusToFahrenheitConverter.executor": "Run",
     "Application.Class.executor": "Run",
-    "Application.Example.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "main2",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Lenovo/project/SDPProject",
     "node.js.detected.package.eslint": "true",
@@ -43,12 +50,23 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class" />
+      <module name="SDPProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Class" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -59,15 +77,15 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3acc86f4-0042-46af-aa8e-1af4d19578b2" name="Changes" comment="" />
-      <created>1727716172104</created>
+      <changelist id="29e4953b-2460-41d8-82b1-6e0165734817" name="Changes" comment="" />
+      <created>1727972377764</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1727716172104</updated>
-      <workItem from="1727716173135" duration="2521000" />
-      <workItem from="1727720300118" duration="62000" />
-      <workItem from="1727723461415" duration="426000" />
-      <workItem from="1727781717630" duration="781000" />
+      <updated>1727972377764</updated>
+      <workItem from="1727972378884" duration="76000" />
+      <workItem from="1727972471280" duration="95000" />
+      <workItem from="1727972579793" duration="44000" />
+      <workItem from="1727972634804" duration="489000" />
     </task>
     <servers />
   </component>
