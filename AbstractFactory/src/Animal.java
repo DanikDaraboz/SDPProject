@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Animal {
+
+public interface Animal {
+    void makeSound();
 }
+

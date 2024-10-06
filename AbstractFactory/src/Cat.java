@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class Cat {
+
+public class Cat implements Animal {
+    @Override
+    public void makeSound() {
+        System.out.println("Meow!");
+    }
 }
+

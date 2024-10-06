@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class CatFactory {
+
+public class CatFactory extends AnimalFactory {
+    @Override
+    public Animal createAnimal() {
+        return new Cat();
+    }
 }
+
